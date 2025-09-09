@@ -4,8 +4,8 @@ Ce projet est le premier travail pratique pour le cours de Qualité de développ
 
 ## Auteurs
 
-*   **Laroussi Nabil**
-*   **Noel Titouan**
+*   **Laroussi Nabil - SPTApyo**
+*   **Noel Titouan - Titouan-N**
 
 ## Dépôt GitHub
 
